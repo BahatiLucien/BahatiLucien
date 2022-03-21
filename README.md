@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BahatiLucien
 - 👀 I’m interested in web development and application development
-- 🌱 I’m currently learning the jave script and html language 
+- 🌱 I’m currently learning the jave script and html language ( DOING MY SECOND YEAR IN APPLICATION DEVELOPMENT @DURBAN UNIVERSITY OF TECHNOLOGY (DUT) )
 - 💞️ I’m looking to collaborate on any of the above.
 - 📫 How to reach me @bahatizihalirwa078@gmail.com or 0672149934
 
